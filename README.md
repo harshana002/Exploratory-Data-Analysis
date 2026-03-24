@@ -1,1 +1,8 @@
-# Exploratory-Data-Analysis
+Titanic Dataset EDA Report 
+1.Overview
+    - Dataset contains 891 rows and 12 columns
+    - Missing values handled for "Age" (filled with median) and "Embarked" (filled with mode).
+2. Key Insights:
+    - Survival rates are highest for first class passengers (62%) and lowest for third class customers(24%)
+    - Majority of passengers are aged between 20-40 years
+    - A positive correlation exist between fare and survival
