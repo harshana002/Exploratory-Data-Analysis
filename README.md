@@ -1,5 +1,5 @@
-Titanic Dataset EDA Report 
-1.Overview
+## Titanic Dataset EDA Report 
+1. Overview
     - Dataset contains 891 rows and 12 columns
     - Missing values handled for "Age" (filled with median) and "Embarked" (filled with mode).
 2. Key Insights:
